@@ -1,4 +1,4 @@
-var cacheName = 'cachePWA';
+var cacheName = 'cachePWA-v1';
 var contentToCache = [
   	'/icon/icon_192.png',
 	'/icon/icon_502.png',
