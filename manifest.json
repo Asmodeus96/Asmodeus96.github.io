@@ -1,5 +1,5 @@
 {
-  "short_name": "PWA",
+  "short_name": "Scanette",
   "name": "Scanette",
   "icons": [
     {
@@ -13,7 +13,7 @@
       "sizes": "64x64"
     }
   ],
-  "start_url": "index.html",
+  "start_url": "/index.html",
   "background_color": "#3367D6",
   "display": "fullscreen",
   "scope": "/maps/",
