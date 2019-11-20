@@ -1,22 +1,22 @@
 var cacheName = 'cachePWA-v1';
 var contentToCache = [
-  	'/icon/icon_192.png',
-	'/icon/icon_502.png',
-	'/images/barcode_scanner.png',
-	'/images/icon-cart.png',
-	'/images/icon-setup.png',
-	'/images/icon-transmite.png',
-	'/images/logo.png',
-	'/js/app.js',
-	'/js/DecoderWorker.js',
-	'/js/exif.js',
-	'/js/jobs',
-	'/favicon.ico',
-	'/index.html',
-	'/manifest.json',
-	'/produits.csv',
-	'/style.css',
-	'/testService.js'
+  	'icons/icon_192.png',
+	'icons/icon_512.png',
+	'images/barcode_scanner.png',
+	'images/icon-cart.png',
+	'images/icon-setup.png',
+	'images/icon-transmite.png',
+	'images/logo.png',
+	'js/app.js',
+	'js/DecoderWorker.js',
+	'js/exif.js',
+	'js/jobs',
+	'favicon.ico',
+	'index.html',
+	'manifest.json',
+	'produits.csv',
+	'style.css',
+	'testService.js'
 	
 ];
 
