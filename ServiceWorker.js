@@ -15,7 +15,9 @@ var contentToCache = [
 	'/index.html',
 	'/manifest.json',
 	'/produits.csv',
-	'/style.css'
+	'/style.css',
+	'/testService.js',
+	
 ];
 
 self.addEventListener('install', (e) => {
