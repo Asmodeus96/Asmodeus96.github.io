@@ -4,7 +4,7 @@ if ("serviceWorker" in navigator) {
   // Puis on déclare celui-ci
   // via la fonction `register`
   navigator.serviceWorker
-    .register("/service-worker.js")
+    .register("/ServiceWorker.js")
     .then(registration => {
       // On a réussi ! Youpi !
       console.log(
