@@ -16,7 +16,7 @@ var contentToCache = [
 	'/manifest.json',
 	'/produits.csv',
 	'/style.css',
-	'/testService.js',
+	'/testService.js'
 	
 ];
 
