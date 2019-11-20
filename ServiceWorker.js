@@ -1,5 +1,5 @@
 var cacheName = 'cachePWA';
-var appShellFiles = [
+var contentToCache = [
   	'/icon/icon_192.png',
 	'/icon/icon_502.png',
 	'/images/barcode_scanner.png',
